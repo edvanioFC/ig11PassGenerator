@@ -14,7 +14,7 @@ A simple yet powerful password generator built with React and TypeScript. This a
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 - [TypeScript](https://www.typescriptlang.org/) - A typed superset of JavaScript that compiles to plain JavaScript
 - [Vite](https://vitejs.dev/) - Next generation frontend tooling
-- SCSS - Local scoped CSS
+- [Scss](https://sass-lang.com/)- Local scoped CSS
 
 ## Getting Started
 
@@ -28,13 +28,13 @@ To get a local copy up and running follow these simple steps.
 ### Installation
 
 1. Clone the repo
-   git clone https://github.com/edvaniofc/ig11passgen.git
+   `git clone https://github.com/edvanioFC/ig11PassGenerator.git`
 2. Install npm packages
-   npm install
+   `npm install`
 
    or
 
-   yarn
+   `yarn`
 
 ### Usage
 
@@ -69,4 +69,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 - [@Edvanio_FC](https://twitter.com/Edvanio_FC)
 - [edvaniocorreia@icloud.com]()
-- [https://github.com/edvaniofc/](https://github.com/your-username/your-repository)
+- [edvaniofc](https://github.com/edvaniofc/)
