@@ -1,0 +1,16 @@
+footer {
+  width: 100%;
+  text-align: center;
+  padding: 20px 0;
+  background-color: #4e99e4;
+  color: white;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+footer a {
+  color: white;
+  text-decoration: underline;
+}
+footer a:hover {
+  color: #ecf0f1;
+}/*# sourceMappingURL=Footer.css.map */
